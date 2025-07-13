@@ -96,7 +96,7 @@ O programa irá exibir uma tabela comparativa com as estatísticas médias para 
 
 ## 📌 Observações
 
-* O conjunto de dados contém **100 registros** pré-definidos.
+* O conjunto de dados contém **1000 registros** pré-definidos.
 * Para testar com outros dados, modifique o array `pessoas` na função `main`.
 * O tamanho do vetor pode ser ajustado alterando a constante `TAM`.
 
